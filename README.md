@@ -342,11 +342,14 @@ deploy-openclaw-win11.bat
 
 ### 打赏方式
 
-| 平台 | 说明 |
-|------|------|
-| 微信 | 扫描下方二维码 |
+| 平台              | 说明          |
+| --------------- | ----------- |
+| 微信         | 扫描下方二维码     |
+<img width="902" height="890" alt="image" src="https://github.com/user-attachments/assets/d9a988e0-b9b8-48da-aace-9c2fbe492b55" />
+
 
 > 打赏完全自愿，不影响项目的任何功能或授权。
+
 
 ## 📄 许可证
 
